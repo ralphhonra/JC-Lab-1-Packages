@@ -1,7 +1,7 @@
 package org.example.packageone;
 
-import org.example.packagethree.ClassThree;
-import org.example.packagetwo.ClassTwo;
+import org.example.packagetwo.ClassThree;
+import org.example.packagethree.ClassTwo;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
